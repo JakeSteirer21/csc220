@@ -1,7 +1,7 @@
 # csc220
 Projects from a class on data structures and search algorithms 
 
-Prog02
+[Prog02] (csc220/jste220/prog02)
 
   - Implementation of an unsorted array to store entries
   - Implementation of a sorted array to store entries
